@@ -90,7 +90,7 @@ I'm still at the beginning of my journey, but I'm always looking for something n
 
 💼 **LinkedIn:** [Muhammed Eashan](https://www.linkedin.com/in/muhammed-eashan-b88042403/)
 
-🌐 **Website:** muhammedeashan.netlify.app
+🌐 **Website:** https://muhammedeashan.netlify.app/
 
 ---
 
